@@ -1,6 +1,3 @@
-Project: Linear Regression Implementation using Python  
-Author: Debanshu Ghosh  
-
 Overview:
 ---------
 A simple implementation of linear regression from scratch to predict salary based on years of experience.
